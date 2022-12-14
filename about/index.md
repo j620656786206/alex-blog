@@ -7,6 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I'm a FE engineer with 4+ year experience, and currently working in Mossion Express Corp.
+I'm interested in dive in Javascript, React, etc...
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+To Be Continue...
