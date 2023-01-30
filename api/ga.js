@@ -3,7 +3,7 @@ const GA_ENDPOINT = `https://www.google-analytics.com/collect`;
 // Domains to allowlist. Replace with your own!
 const originallowlist = [];
 // Update me.
-allowlistDomain("eleventy-high-performance-blog-sample.industrialempathy.com/");
+allowlistDomain("alexyu-blog.com");
 
 let hot = false;
 let age = Date.now();
@@ -140,8 +140,8 @@ sr: 1440x900
 vp: 945x777
 je: 0
 _u: blabla~
-jid: 
-gjid: 
+jid:
+gjid:
 cid: 1837873423.1522911810
 tid: UA-116530991-1
 _gid: 1828045325.1524815793

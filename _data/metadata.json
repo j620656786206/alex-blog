@@ -4,7 +4,7 @@
   "domain": "https://alexyu.blog",
   "description": "Record things I learned",
   "genre": "FE Developer",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
+  "googleAnalyticsId": "UA-115586274-4",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "FE Tech",
