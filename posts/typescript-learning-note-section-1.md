@@ -14,11 +14,11 @@ layout: layouts/post.njk
 
 這一系列筆記將會記錄一些我在上課時覺得是重點的地方，過於簡單的就不贅述。
 
-- [Typescrip Overview](#typescrip-overview)
+- [Typescript Overview](#typescript-overview)
   - [What is Typescript](#what-is-typescript)
 - [實作](#實作)
 
-## Typescrip Overview
+## Typescript Overview
 
 ### What is Typescript
 
