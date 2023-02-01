@@ -1,7 +1,7 @@
 ---
 title: Typescript 學習筆記 - Section 2
 description: 關於Typescript The Complete Developer's Guide的學習筆記, Section 2
-date: 2023-01-31
+date: 2023-02-01
 tags:
   - typescript
   - frontend
